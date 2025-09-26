@@ -3,7 +3,7 @@
 
 ---
 ## 修改配置文件
-&emsp;&emsp;下载插件文件夹，根据个人需求修改将`mjjvm.php`文件中的`namespace oauth\mjjvm;`和`class mjjvm`修改为自己的Discourse论坛域名或者是智简魔方的域名，仅需要将文件夹名字与`php`中的定义名相同即可。
+&emsp;&emsp;下载插件文件夹，根据个人需求将`mjjvm.php`文件中的`namespace oauth\mjjvm;`和`class mjjvm`修改为自己的Discourse论坛域名或者是智简魔方的域名，仅需要将文件夹名字与`php`中的定义名相同即可。
 
 ---
 
