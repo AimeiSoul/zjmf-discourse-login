@@ -1,0 +1,2 @@
+# zjmf-discourse-login
+针对智简魔方与以Discourse为基础创建的论坛开发的插件，可以通过Discourse论坛账号直接登陆智简魔方。
